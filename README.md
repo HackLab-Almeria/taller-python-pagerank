@@ -16,12 +16,12 @@ to-do
 ## CONTACTO
 
 - Hacklab Almería:
--- @HacklabAlm
--- www.hacklabalmeria.net
+ - @HacklabAlm
+ - www.hacklabalmeria.net
 - Indavelopers:
--- Marcos Manuel Ortega
--- info@indavelopers.com
--- Twitter, Github, FB, LinkedIn
+ - Marcos Manuel Ortega
+ - info@indavelopers.com
+ - Twitter, Github, FB, LinkedIn
 
 ## LICENCIA
 
